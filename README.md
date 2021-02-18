@@ -2,7 +2,7 @@
 
 My definitive collection, curated by me, stolen from others.
 
-![image](https://raw.githubusercontent.com/Blu3Jive001/Wallpapers/master/Nature/Landscapes/unknown/Night%20in%20the%20mountains.jpeg)
+![image](https://raw.githubusercontent.com/Blu3Jive001/Wallpapers/master/Digital/Pixel%20Art/Japanese%20Blossoms.gif)
 
 # How to use Live Wallpapers
 
