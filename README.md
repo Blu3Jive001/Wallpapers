@@ -2,7 +2,7 @@
 
 My definitive collection, curated by me, stolen from others.
 
-![image](https://raw.githubusercontent.com/Blu3Jive001/Wallpapers/master/Nordic/image-go-nord/Misty%20Mountain.jpg)
+![image](https://raw.githubusercontent.com/Blu3Jive001/Wallpapers/master/External%20Sources/Hal/Erwan%20Hesry/erwan-hesry-_M-X3mFh9C4-unsplash.jpg
 
 # How to use Live Wallpapers
 
